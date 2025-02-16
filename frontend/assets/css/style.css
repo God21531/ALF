@@ -1780,7 +1780,8 @@ textarea.input-field {
 
   .topbar-item:not(.link) { display: flex; }
 
-  .topbar .item-2 { margin-inline-end: auto; }
+  .topbar .item-2 { margin-inline-end: auto;
+  margin-left: 350px; }
 
 
 
